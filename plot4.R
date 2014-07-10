@@ -79,4 +79,4 @@ my_bottomrightPlot <- function(data) {
 }
 
 
-exportPlot4Png(loadData(data))
+exportPlot4Png(loadData())
